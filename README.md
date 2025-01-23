@@ -27,7 +27,7 @@
 - 💬 **Telegram:** [@akayooooo](https://t.me/akayooooo)
 ---
 
-## 🌍 Статистика активности на GitHub:
+## 🌍 Статистика ЯП:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akayooo&layout=compact&theme=radical)](https://github.com/akayooo)
 
