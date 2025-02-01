@@ -57,7 +57,12 @@
   <img src="images/ML_Begginers.jpg" alt="ML for Begginers" width="400"/>
   <img src="images/PythonCourse.jpg" alt="Python course" width="400"/>
 </div>
----
+
+### Успеваемость 
+Успеваемость за прошедший семестр
+<div align="center">
+  <img src="images/semester3.jpg" alt="Marks" width="800"/>
+</div>
 
 ## 🔧 Навыки и Технологии
 
