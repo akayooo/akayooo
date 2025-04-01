@@ -48,6 +48,7 @@
   <img src="images/SBERxHSE_Сертификат.jpg" alt="SBERxHSE" width="400"/>
   <img src="images/АльфаФинал_Сертификат.jpg" alt="AlphaHack" width="400"/>
   <img src="images/КокосХакатон_Сертификат.jpg" alt="Кококс RecSys" width="400"/>
+  <img src="images/SiamHack.png" alt="SiamHack" width="400"/>
 </div>
 
 ### Курсы
@@ -57,12 +58,6 @@
   <img src="images/ML_Begginers.jpg" alt="ML for Begginers" width="400"/>
   <img src="images/PythonCourse.jpg" alt="Python course" width="400"/>
   <img src="images/Ai_edu.png" alt="DL Course" width="400"/>
-</div>
-
-### Успеваемость 
-Успеваемость за прошедший семестр
-<div align="center">
-  <img src="images/semester3.jpg" alt="Marks" width="800"/>
 </div>
 
 ## 🔧 Навыки и Технологии
