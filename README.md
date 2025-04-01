@@ -56,6 +56,7 @@
 <div align="center">
   <img src="images/ML_Begginers.jpg" alt="ML for Begginers" width="400"/>
   <img src="images/PythonCourse.jpg" alt="Python course" width="400"/>
+  <img src="images/Ai_edu.png" alt="DL Course" width="400"/>
 </div>
 
 ### Успеваемость 
