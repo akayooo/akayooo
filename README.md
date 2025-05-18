@@ -49,9 +49,9 @@
 <div align="center">
   <img src="images/SBERxHSE_Сертификат.jpg" alt="SBERxHSE" width="400"/>
   <img src="images/АльфаФинал_Сертификат.jpg" alt="AlphaHack" width="400"/>
-  <img src="images/photo_2025-04-02_14-22-26.jpg" alt="Purple" width="400"/>
+  <img src="images/PurpleHack.jpg" alt="Purple" width="400"/>
   <img src="images/КокосХакатон_Сертификат.jpg" alt="Кококс RecSys" width="400"/>
-  <img src="images/SiamHack.png" alt="SiamHack" width="400"/>
+  <img src="images/SiamHackPlace.png" alt="SiamHack" width="400"/>
 </div>
 
 ### Курсы
