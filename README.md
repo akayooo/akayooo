@@ -16,8 +16,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akayooo&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/akayooo)
 
 ## 🌟 Мои проекты
-- **[Система рекомендаций товаров на основе LightGBM](https://github.com/akayooo/SBERxHSE_RecSys)** — Проект для рекомендаций товаров с использованием алгоритма LightGBM на основе музыкальных предпочтений пользователя.
-- **[AI-Ассистент для постройки BPMN - Диаграмм](https://github.com/akayooo/ITOne)** — AI Ассистент, направленный на постройку BPNM - диаграмм, способный дать рекомендации по улучшению существующей архитектуры бизнеса.
+- **[Система AI-HR](https://github.com/akayooo/AI-HR)** — Система интервьюирования, направленная на использование кандидатами и работадателями. Агентная система с гибким интервью.
+- **[Замена дорого оборудования ML'ем](https://github.com/akayooo/MDS)** — ML-решение для замены устройства по замеру гранулометрии.
 - **[Аномалии во временном ряде](https://github.com/akayooo/SiamHack)** — Решение для поиска аномальных участков временного ряда давления.
 - **[FAISS API для обработки текста](https://github.com/akayooo/FAISS-TextProcessingAPI)** — Разработка API для обработки текста с помощью FAISS и генеративных моделей.
 - **[AutoML Pipeline для бинарной классификации](https://github.com/akayooo/AlphaHack_AutoML)** — Автоматизированный pipeline для бинарной классификации с использованием AutoGluon и LightAutoML.
@@ -46,7 +46,7 @@
 В этом разделе представлены сертификаты, полученные на хакатонах.
 
 <div align="center">
-  <img src="images/SBERxHSE_Сертификат.jpg" alt="SBERxHSE" width="400"/>
+  <img src="images/ai_hr.jpg" alt="AI-HR" width="400"/>
   <img src="images/АльфаФинал_Сертификат.jpg" alt="AlphaHack" width="400"/>
   <img src="images/SiamHackPlace.png" alt="SiamHack" width="400"/>
   <img src="images/mds.png" alt="MDS ClassicML" width="400"/>
